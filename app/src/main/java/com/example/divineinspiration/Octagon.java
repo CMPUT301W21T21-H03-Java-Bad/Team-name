@@ -1,4 +1,5 @@
 package com.example.divineinspiration;
 
-public class Octagon {
+public class Octagon extends Shape{
+    private String color = "blue";
 }
