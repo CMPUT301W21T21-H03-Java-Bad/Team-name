@@ -1,5 +1,4 @@
 package com.example.divineinspiration;
 
-public class Dot extends Shape{
-    
+public class Hexagon extends Shape {
 }
