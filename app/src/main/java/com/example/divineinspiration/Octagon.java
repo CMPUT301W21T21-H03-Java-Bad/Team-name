@@ -1,4 +1,4 @@
 package com.example.divineinspiration;
 
-public class Square extends Shape {
+public class Octagon {
 }
