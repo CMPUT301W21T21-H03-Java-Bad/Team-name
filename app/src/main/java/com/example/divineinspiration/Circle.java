@@ -1,6 +1,0 @@
-
-
-class Circle extends Shape{
-
-    
-}
